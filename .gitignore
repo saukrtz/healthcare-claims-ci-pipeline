@@ -1,0 +1,25 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment Variables & Keys
+.env
+generate_ci.py
+setup_project.py
+
+# OS Files
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
